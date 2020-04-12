@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "797341066267",
+    "firebase_url": "https://crudfirebasecontactos-83a70.firebaseio.com",
+    "project_id": "crudfirebasecontactos-83a70",
+    "storage_bucket": "crudfirebasecontactos-83a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797341066267:android:312b08a7dcb6cbd521c4be",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebasecontactos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797341066267-693bjv4hs5qgci9itrfcbj6t28dc1jc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crudfirebasecontactos",
+            "certificate_hash": "0184c20e48583858050c316bcde936ca35807b58"
+          }
+        },
+        {
+          "client_id": "797341066267-e1o9iu20obrqs4l3nt1385i91gmqks5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJW4I70BWKAK46AG4YhUwlLl-Ctxqk-2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797341066267-e1o9iu20obrqs4l3nt1385i91gmqks5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
